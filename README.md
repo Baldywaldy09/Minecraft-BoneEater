@@ -1,8 +1,8 @@
 <h1 align="center">
-Minecraft - BoneEater
+  Minecraft - BoneEater
+  
+  ![](https://i.imgur.com/phoqo0y.png)
 </h1>
-
-![](https://i.imgur.com/phoqo0y.png)
 
 ## Information:
 Allows players to put bones into the helmet slot without requireing OP permissions<br>
