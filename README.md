@@ -1,6 +1,8 @@
 <h1 align="center">
   Minecraft - BoneEater
-  
+</h1>
+
+<h1 align="center">
   ![](https://i.imgur.com/phoqo0y.png)
 </h1>
 
