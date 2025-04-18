@@ -2,10 +2,10 @@
   Minecraft - BoneEater
 </h1>
 
-<h1 align="center">
-  
-  ![](https://i.imgur.com/phoqo0y.png)
-</h1>
+<p align="center">
+  <img src="https://i.imgur.com/phoqo0y.png" alt="Image">
+</p>
+
 
 ## Information:
 Allows players to put bones into the helmet slot without requireing OP permissions<br>
