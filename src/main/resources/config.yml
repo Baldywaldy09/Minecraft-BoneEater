@@ -1,0 +1,12 @@
+DO-NOT-EDIT:
+  config-version: 1.0.1 # !! DO NOT EDIT !!
+
+
+options:
+  survival-mode: true # If true pups will need to have a bone in their inventory!
+
+
+# Allows: "op", "all"
+permissions:
+    bone_others:    op # Command: `/eatbone (optional)<player>` | Currently only server operators can give a bone to others | change "op" to "all" to allow everyone to give a bone to others!
+    debone_others:  op # Command: `/debone (optional)<player>`  | Curreonly only server operators can remove a bone from others 

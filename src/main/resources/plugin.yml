@@ -1,0 +1,12 @@
+name: BoneEater
+version: 1.0.1
+main: net.baldy.BoneEaterPlugin
+description: Be A Puppy!
+author: Baldy09
+website: https://baldy.pages.dev
+api-version: '1.21.4'
+
+commands:
+  eatbone:
+    description: Put a bone in your mouth!
+    usage: "Usage: /<command> <targets>"
