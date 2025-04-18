@@ -6,6 +6,8 @@
   <img src="https://i.imgur.com/phoqo0y.png" alt="Image">
 </p>
 
+> [!IMPORTANT]  
+> The plugin is unfinished, i have no current plants to work on it!
 
 ## Information:
 Allows players to put bones into the helmet slot without requireing OP permissions<br>
